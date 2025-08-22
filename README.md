@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kaoqueri
-- 👀 I’m interested in solving daily problems
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any basic programs and nonograms solver
+# 👋 Hello there, I’m @kaoqueri
+I have skills in Python and MATLAB
+I’m currently learning front-end part (React Native, HTML)
 
 <!---
 kaoqueri/kaoqueri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
