@@ -2,4 +2,4 @@
 - I have skills in Python and MATLAB
 - I’m currently learning front-end part (React Native, HTML)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoqueri&layout=compact)
